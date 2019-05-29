@@ -1,0 +1,5 @@
+server:
+#  port: 8989
+  port: 8080
+file:
+  path: E:\files
